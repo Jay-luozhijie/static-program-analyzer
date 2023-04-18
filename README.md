@@ -25,3 +25,5 @@ No additional instructions required.
 ![image](https://user-images.githubusercontent.com/77223932/232695193-6ee69062-b789-4714-b2c6-46af6fb78ae0.png)
 I wrote functional code as well as unit tests, integration tests and system tests.
 In total I contributed 18064 lines of code.
+![kIdWlbe5RL](https://user-images.githubusercontent.com/77223932/232697560-107a0e70-bce7-473f-9392-3db94041a804.png)
+
